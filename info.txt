@@ -1,0 +1,1 @@
+This repository is created for learning Git version control, including branching, merging, and conflict resolution.
